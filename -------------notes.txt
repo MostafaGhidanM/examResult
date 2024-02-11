@@ -1,0 +1,8 @@
+php artisan make:model Admin -mcr
+
+------------------
+in materials ==> status :
+    1- created and asigned to teacher
+    2- teacher finish and pass it to manager
+    3- published
+
